@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbrehamGebremedhin
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning express JS
+- 🌱 I’m currently learning deep learning with PyTorch
 - 📫 How to reach me abreham.gmedhin12@gmail.com or https://t.me/sigurdbloodhair on telegram
 
 <!---
