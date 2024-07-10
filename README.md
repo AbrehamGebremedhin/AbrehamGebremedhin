@@ -33,9 +33,6 @@
 </samp>
 
 <p align="center">
-  <a href="https://github.com/AbrehamGebremedhin?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100+-brightgreen?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
   <a href="https://github.com/AbrehamGebremedhin?tab=stars">
     <img src="https://img.shields.io/github/stars/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Stars" />
   </a>
