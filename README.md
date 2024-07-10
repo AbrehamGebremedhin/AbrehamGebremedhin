@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Abreham</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Artificial+Intellegence+Enthusiast;Always+Learning+New+Things" />
@@ -28,12 +28,12 @@
 
 <p align="center">
   <a href="https://github.com/AbrehamGebremedhin?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-100+-brightgreen?style=for-the-badge&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/github/repos/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <a href="https://github.com/AbrehamGebremedhin?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-500+-brightgreen?style=for-the-badge&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Stars" />
   </a>
   <a href="https://github.com/AbrehamGebremedhin?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-1000+-brightgreen?style=for-the-badge&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Followers" />
   </a>
 </p>
