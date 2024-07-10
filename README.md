@@ -20,6 +20,8 @@
   <a href="www.linkedin.com/in/abreham-gebremedhin-915960229">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://t.me/sigurdbloodhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a>
+  
 </p>
 
 <br />
