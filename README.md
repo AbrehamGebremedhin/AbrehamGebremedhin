@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abreham Gebremedhin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineer;Open+Source+Enthusiast;Tech+Blogger;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineer;Computer+Science;Artificial+Intellegence+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
