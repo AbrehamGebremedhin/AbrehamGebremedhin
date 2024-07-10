@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Abreham Gebremedhin</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineer;Open+Source+Enthusiast;Tech+Blogger;Always+Learning+New+Things" />
