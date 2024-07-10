@@ -22,9 +22,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=AbrehamGebremedhin&theme=react-dark" alt="Contribution Graph" />
-</p>
+<br />
+<samp>
+  <a href="https://github.com/AbrehamGebremedhin/">
+    <img alt="Abreham's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AbrehamGebremedhin&theme=github-compact&hide_border=true" />
+  </a>
+  <br/>
+</samp>
 
 <p align="center">
   <a href="https://github.com/AbrehamGebremedhin?tab=repositories">
