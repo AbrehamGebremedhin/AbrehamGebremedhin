@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://github.com/AbrehamGebremedhin?tab=repositories">
-    <img src="https://img.shields.io/github/repos/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/endpoint?url=https://api.github.com/users/AbrehamGebremedhin/repos_count&style=for-the-badge&logo=github" alt="Repositories" />
   </a>
   <a href="https://github.com/AbrehamGebremedhin?tab=stars">
     <img src="https://img.shields.io/github/stars/AbrehamGebremedhin?style=for-the-badge&logo=github" alt="Stars" />
