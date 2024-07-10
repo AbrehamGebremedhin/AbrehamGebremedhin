@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/abreham-gebremedhin-915960229">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourusername" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/abreham-gebremedhin-915960229" alt="LinkedIn" />
   </a>
 </p>
 
