@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Abreham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;Artificial+Intellegence+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Computer+Science;AI,ML+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
