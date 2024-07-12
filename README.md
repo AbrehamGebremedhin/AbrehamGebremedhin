@@ -23,6 +23,9 @@
   <a href="https://t.me/sigurdbloodhair">
     <img align="center" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
+  <a href="https://t.me/sigurdbloodhair">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Telegram"/>
+  </a>
   
 </p>
 
