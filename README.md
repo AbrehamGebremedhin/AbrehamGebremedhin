@@ -20,10 +20,10 @@
   <a href="www.linkedin.com/in/abreham-gebremedhin-915960229">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="abreham.gmedhin12@gmail.com">
+  <a href="https://t.me/sigurdbloodhair">
     <img align="center" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://t.me/sigurdbloodhair">
+  <a href="abreham.gmedhin12@gmail.com">
     <img align="center" src="https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Telegram"/>
   </a>
   
