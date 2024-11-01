@@ -16,16 +16,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbrehamGebremedhin&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
 <p align="center">
-  <a href="www.linkedin.com/in/abreham-gebremedhin-915960229">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/sigurdbloodhair">
-    <img align="center" src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="abreham.gmedhin12@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-blue?style=flat-square&logo=Gmail&logoColor=white" alt="Telegram"/>
-  </a>
+<a href="www.linkedin.com/in/abreham-gebremedhin-915960229" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://t.me/sigurdbloodhair" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" alt="hashnode" height="50" width="50" /></a>
   
 </p>
 
