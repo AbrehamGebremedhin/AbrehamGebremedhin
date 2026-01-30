@@ -51,7 +51,7 @@
 <h2 align="center">GitHub Highlights</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbrehamGebremedhin&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbrehamGebremedhin&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
