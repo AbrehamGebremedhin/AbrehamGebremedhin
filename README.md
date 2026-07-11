@@ -35,7 +35,7 @@ I build end-to-end products where AI does real work — not just a chat box bolt
 | **[Cipher](https://github.com/AbrehamGebremedhin/Cipher)** | Equities research engine combining market data, a Neo4j knowledge graph, ML models and a local LLM *(WIP)* | PyTorch · Neo4j · LangChain/Ollama · yfinance |
 | **multi-tenant-task** 🔒 | Production-style multi-tenant SaaS task API with database-per-tenant isolation and JWT auth | FastAPI · Postgres · JWT |
 | **Chat-W-Data** 🔒 | Local ChatGPT-style API to chat with your files, folders and websites — fully offline | Python · Ollama · RAG |
-| **[AnimeBot](https://github.com/AbrehamGebremedhin/AnimeBot)** | Anime recommendation chatbot — natural-language queries over a graph of genres, studios & themes ([Flutter UI](https://github.com/AbrehamGebremedhin/animebot_ui)) | Python · LLM · Neo4j · Flutter |
+| **[AnimeBot](https://github.com/AbrehamGebremedhin/AnimeBot)** | Anime recommendation chatbot — natural-language queries over a graph of animes, genres, studios & themes ([Flutter UI](https://github.com/AbrehamGebremedhin/animebot_ui)) | Python · LLM · Neo4j · Flutter |
 | **[Fuel Tracker](https://github.com/AbrehamGebremedhin/fuel-tracker)** | Telegram bot that looks up rated fuel economy per engine variant and tracks your real km/L per fill-up | Python · Telegram · SQLite |
 
 <sub>🔒 = private repo</sub>
